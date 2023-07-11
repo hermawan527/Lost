@@ -105,7 +105,7 @@ global.pgopay = 'Chat owner !!'
 global.plinkaja = '-' //link aja
 global.ppulsa = 'Chat owner !!'
 global.ppulsa2 = 'Chat owner !!'
-global.psaweria = 'https://telegra.ph/file/98338a583efeb3d34a70b.jpg'
+global.psaweria = 'https://telegra.ph/file/c78d823031f51010e5bc8.png'
 
 //bebas cuyyy yg atas mahh 
 
